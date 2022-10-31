@@ -1,1 +1,1 @@
-from courses.models.course import Course
+from courses.models.course import Course, Tag, Prerequisite, Learning
