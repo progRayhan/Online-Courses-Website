@@ -1,0 +1,27 @@
+We are hiring Intermediate Django Developer
+
+Responsibilities include,
+- Solid grasp of MVT design pattern
+- Build and manage RESTful API using Django REST Framework
+- Experience working with Class-Based-Views
+- Good knowledge about Custom User model & Permission
+- Strong experience in Token Authentication & JWT Authentication
+- Good knowledge about Filter, Search & Ordering
+- Experience working with PostgreSQL/MySQL
+- Good knowledge of Git & GitHub
+- Docker knowledge is Plus
+
+Salary Range
+30K(BDT)
+
+Job Type : Full Time
+Office Hours : 11:30 AM - 8:00 PM
+Working Day : 6 days (Thursday off)
+Company Name : Get-Aid
+Location : Banani 11
+Lunch will be provided from office
+
+Direct Message or Email me your Resume,
+Email : prog.rayhan1@gmail.com
+
+
