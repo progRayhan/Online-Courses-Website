@@ -1,4 +1,5 @@
 {% extends 'courses/base.html' %}
+{% load courses_custom_tags %}
 {% block title %}
 Courses
 {% endblock %}
@@ -26,7 +27,8 @@ Courses
                         <span class="price">
                             <del>৳{{course.price}}</del>
                             &nbsp;
-                            <span>৳ 199</span>
+                            <!-- <h1>{% cal_sellprice 72 10 %}</h1> -->
+                            <span>৳ {% cal_sellprice course.price course.discount %}</span>
                         </span>    
                     </p>
                 </div>
